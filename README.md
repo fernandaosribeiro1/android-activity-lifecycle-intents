@@ -10,7 +10,7 @@ Este projeto é uma demonstração prática e concisa de dois pilares fundamenta
 
 O layout foi desenvolvido seguindo princípios modernos de UI/UX, utilizando `CardView` para elevação e um esquema de cores limpo e de alto contraste.
 
-## 🎯 Objetivos Técnicos (AD-O)
+## 🎯 Objetivos Técnicos 
 
 Este aplicativo foi desenvolvido para cumprir os seguintes requisitos técnicos:
 
